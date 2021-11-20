@@ -1,4 +1,4 @@
-# Team Tesseract
+# Team Tesseract-Sustainable Store
 This is the submission for Hack With Us organised by SRMKZILLA, in association with Capgemini
 # Climate Crisis
 PROBLEM STATEMENT:
